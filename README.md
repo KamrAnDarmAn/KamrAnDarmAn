@@ -18,8 +18,8 @@ I am a passionate **Full Stack Developer** specializing in building highly scala
 - ⚡ **Real-Time Systems**: Experienced in engineering low-latency data pipelines and real-time synchronization.
 - 🌱 **Learning**: Exploring AI/ML integrations with web applications.
 - 💬 **Ask me about**: Full Stack Development, System Design, and Open Source.
-- 📫 **How to reach me**: [kamran@example.com](mailto:kamran@example.com)
-- 🌐 **Portfolio**: [kamran.dev](https://kamran.dev)
+- 📫 **How to reach me**: [kamrandarman72@gmail.com](mailto:kamrandarman72@gmail.com)
+- 🌐 **Portfolio**: [kamran.dev]([https://kamran.dev](https://kamrandarman.vercel.app/))
 
 ---
 
