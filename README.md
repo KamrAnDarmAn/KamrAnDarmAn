@@ -7,7 +7,7 @@
   </p>
 </div>
 
-## <img src="./public/cover-image.png" alt="Cover Image" width="100%" />
+## <img src="./cover-image.png" alt="Cover Image" width="100%" />
 
 ### 💫 About Me
 
